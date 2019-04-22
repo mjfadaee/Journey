@@ -17,5 +17,4 @@ To find out more about this project, please visit: https://blogs.thecdm.ca/fitcr
 ![Alt text](Screenshots/Slide8.JPG)
 ![Alt text](Screenshots/Slide9.JPG)
 ![Alt text](Screenshots/Slide10.JPG)
-![Alt text](Screenshots/Slide11.JPG)
 
