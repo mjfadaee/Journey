@@ -7,4 +7,15 @@ Client: Creative Labs Management Inc. is a start-up studio focused on developing
 To find out more about this project, please visit: https://blogs.thecdm.ca/fitcraftlab/
 
 #### Screenshots
-![Alt text](Screenshots/Slide1.jpg)
+![Alt text](Screenshots/Slide1.JPG)
+![Alt text](Screenshots/Slide2.JPG)
+![Alt text](Screenshots/Slide3.JPG)
+![Alt text](Screenshots/Slide4.JPG)
+![Alt text](Screenshots/Slide5.JPG)
+![Alt text](Screenshots/Slide6.JPG)
+![Alt text](Screenshots/Slide7.JPG)
+![Alt text](Screenshots/Slide8.JPG)
+![Alt text](Screenshots/Slide9.JPG)
+![Alt text](Screenshots/Slide10.JPG)
+![Alt text](Screenshots/Slide11.JPG)
+
